@@ -1,10 +1,10 @@
 {
   "Aliases": [
-    {
-      "AliasName": "Lupini",
-      "ItemNames": [
-        "Lupini: 'Tropical Fish #173'",
-        "Lupini: 1000 Years From Now",
+	{
+	  "AliasName": "Lupini",
+	  "ItemNames": [
+		"Lupini: 'Tropical Fish #173'",
+		"Lupini: 1000 Years From Now",
 		"Lupini: Clouds",
 		"Lupini: Land Of Clay",
 		"Lupini: Portrait Of A Mermaid",
@@ -12,14 +12,14 @@
 		"Lupini: Solar Kingdom",
 		"Lupini: The Serpent",
 		"Lupini: Three Trees"
-      ]
-    },
-    {
-      "AliasName": "Resource Pack",
-      "ItemNames": [
-        "Resource Pack: 1 Mahogany Seed",
-        "Resource Pack: 1 Crab Pot",
-        "Resource Pack: 1 Warp Totem: Beach",
+	  ]
+	},
+	{
+	  "AliasName": "Resource Pack",
+	  "ItemNames": [
+		"Resource Pack: 1 Mahogany Seed",
+		"Resource Pack: 1 Crab Pot",
+		"Resource Pack: 1 Warp Totem: Beach",
 		"Resource Pack: 1 Warp Totem: Mountains",
 		"Resource Pack: 10 Bait",
 		"Resource Pack: 10 Basic Fertilizer",
@@ -62,13 +62,13 @@
 		"Resource Pack: 25 Wood",
 		"Resource Pack: 28 Quality Retaining Soil",
 		"Resource Pack: 3 Crab Pot",
-        "Resource Pack: 3 Warp Totem: Beach",
+		"Resource Pack: 3 Warp Totem: Beach",
 		"Resource Pack: 3 Warp Totem: Mountains",
-        "Resource Pack: 9 Warp Totem: Beach",
+		"Resource Pack: 9 Warp Totem: Beach",
 		"Resource Pack: 9 Warp Totem: Mountains",
-        "Resource Pack: 7 Warp Totem: Beach",
+		"Resource Pack: 7 Warp Totem: Beach",
 		"Resource Pack: 7 Warp Totem: Mountains",
-        "Resource Pack: 5 Warp Totem: Beach",
+		"Resource Pack: 5 Warp Totem: Beach",
 		"Resource Pack: 5 Warp Totem: Mountains",
 		"Resource Pack: 500 Money",
 		"Resource Pack: 60 Basic Retaining Soil",
@@ -116,12 +116,12 @@
 		"Resource Pack: 60 Bait",
 		"Resource Pack: 75 Stone",
 		"Resource Pack: 75 Wood"
-      ]
-    },
-    {
-      "AliasName": "Resource Pack Useful",
-      "ItemNames": [
-        "Resource Pack: 1 Warp Totem: Desert",
+	  ]
+	},
+	{
+	  "AliasName": "Resource Pack Useful",
+	  "ItemNames": [
+		"Resource Pack: 1 Warp Totem: Desert",
 		"Resource Pack: 1 Warp Totem: Farm",
 		"Resource Pack: 1 Warp Totem: Island",
 		"Resource Pack: 10 Deluxe Fertilizer",
@@ -131,7 +131,7 @@
 		"Resource Pack: 10 Mahogany Seed",
 		"Resource Pack: 10 Speed-Gro",
 		"Resource Pack: 10 Tree Fertilizer",
-        "Resource Pack: 10 Warp Totem: Desert",
+		"Resource Pack: 10 Warp Totem: Desert",
 		"Resource Pack: 10 Warp Totem: Farm",
 		"Resource Pack: 10 Warp Totem: Island",
 		"Resource Pack: 10 Warp Totem: Beach",
@@ -189,17 +189,17 @@
 		"Resource Pack: 3 Magma Geode",
 		"Resource Pack: 3 Mahogany Seed",
 		"Resource Pack: 3 Travel Core",
-        "Resource Pack: 3 Warp Totem: Desert",
+		"Resource Pack: 3 Warp Totem: Desert",
 		"Resource Pack: 3 Warp Totem: Farm",
 		"Resource Pack: 3 Warp Totem: Island",
 		"Resource Pack: 3 Water Shifter",
-        "Resource Pack: 9 Warp Totem: Desert",
+		"Resource Pack: 9 Warp Totem: Desert",
 		"Resource Pack: 9 Warp Totem: Farm",
 		"Resource Pack: 9 Warp Totem: Island",
-        "Resource Pack: 7 Warp Totem: Desert",
+		"Resource Pack: 7 Warp Totem: Desert",
 		"Resource Pack: 7 Warp Totem: Farm",
 		"Resource Pack: 7 Warp Totem: Island",
-        "Resource Pack: 5 Warp Totem: Desert",
+		"Resource Pack: 5 Warp Totem: Desert",
 		"Resource Pack: 5 Warp Totem: Farm",
 		"Resource Pack: 5 Warp Totem: Island",
 		"Resource Pack: 5000 Money",
@@ -223,11 +223,11 @@
 		"Resource Pack: 8 Frozen Geode",
 		"Resource Pack: 8 Omni Geode",
 		"Resource Pack: 9 Mahogany Seed"
-      ]
-    },
-    {
-      "AliasName": "Resource Pack Calico",
-      "ItemNames": [
+	  ]
+	},
+	{
+	  "AliasName": "Resource Pack Calico",
+	  "ItemNames": [
 		"Resource Pack: 100 Calico Egg",
 		"Resource Pack: 10 Calico Egg",
 		"Resource Pack: 120 Calico Egg",
@@ -237,11 +237,11 @@
 		"Resource Pack: 35 Calico Egg",
 		"Resource Pack: 40 Calico Egg",
 		"Resource Pack: 50 Calico Egg"
-      ]
-    },
-    {
-      "AliasName": "Qi Gem",
-      "ItemNames": [
+	  ]
+	},
+	{
+	  "AliasName": "Qi Gem",
+	  "ItemNames": [
 		"Resource Pack 2 Qi Gem",
 		"100 Qi Gems",
 		"15 Qi Gems",
@@ -250,13 +250,13 @@
 		"35 Qi Gems",
 		"40 Qi Gems",
 		"50 Qi Gems"
-      ]
-    },
-    {
-      "AliasName": "Festival",
-      "ItemNames": [
-        "Egg Festival",
-        "Desert Festival",
+	  ]
+	},
+	{
+	  "AliasName": "Festival",
+	  "ItemNames": [
+		"Egg Festival",
+		"Desert Festival",
 		"Progressive Desert Festival",
 		"Desert Festival Day One",
 		"Desert Festival Day Two",
@@ -281,114 +281,114 @@
 		"Night Market Day Two",
 		"Night Market Day Three",
 		"Feast of the Winter Star"
-      ]
-    },
-    {
-      "AliasName": "Queen Recipe",
-      "ItemNames": [
-        "Fried Egg Recipe",
-        "Omelet Recipe",
-        "Salad Recipe",
-        "Cheese Cauliflower Recipe",
-        "Baked Fish Recipe",
-        "Parsnip Recipe",
-        "Vegetable Medley Recipe",
-        "Complete Breakfast Recipe",
-        "Fried Calamari Recipe",
-        "Strange Bun Recipe",
-        "Lucky Lunch Recipe",
-        "Fried Mushroom Recipe",
-        "Pizza Recipe",
-        "Bean Hotpot Recipe",
-        "Glazed Yams Recipe",
-        "Carp Surprise Recipe",
-        "Hashbrowns Recipe",
-        "Pancakes Recipe",
-        "Salmon Dinner Recipe",
-        "Fish Taco Recipe",
-        "Crispy Bass Recipe",
-        "Pepper Poppers Recipe",
-        "Bread Recipe",
-        "Tom Kha Soup Recipe",
-        "Trout Soup Recipe",
-        "Chocolate Cake Recipe",
-        "Pink Cake Recipe",
-        "Rhubarb Recipe",
-        "Cookie Recipe",
-        "Spaghetti Recipe",
-        "Fried Eel Recipe",
-        "Spicy Eel Recipe",
-        "Sashimi Recipe",
-        "Maki Roll Recipe",
-        "Tortilla Recipe",
-        "Red Plate Recipe",
-        "Eggplant Parmesan Recipe",
-        "Rice Pudding Recipe",
-        "Ice Cream Recipe",
-        "Blueberry Tart Recipe",
-        "Autumn's Bounty Recipe",
-        "Pumpkin Soup Recipe",
-        "Super Meal Recipe",
-        "Cranberry Sauce Recipe",
-        "Stuffing Recipe",
-        "Farmer's Lunch Recipe",
-        "Survival Burger Recipe",
-        "Dish O' The Sea Recipe",
-        "Miner's Treat Recipe",
-        "Roots Platter Recipe",
-        "Triple Shot Espresso Recipe",
-        "Seafoam Pudding Recipe",
-        "Algae Soup Recipe",
-        "Pale Broth Recipe",
-        "Plum Pudding Recipe",
-        "Artichoke Recipe",
-        "Stir Fry Recipe",
-        "Roasted Hazelnuts Recipe",
-        "Pumpkin Pie Recipe",
-        "Radish Salad Recipe",
-        "Fruit Salad Recipe",
-        "Blackberry Cobbler Recipe",
-        "Cranberry Candy Recipe",
-        "Bruschetta Recipe",
-        "Coleslaw Recipe",
-        "Fiddlehead Risotto Recipe",
-        "Poppyseed Muffin Recipe",
-        "Chowder Recipe",
-        "Fish Stew Recipe",
-        "Escargot Recipe",
-        "Lobster Bisque Recipe",
-        "Maple Bar Recipe",
-        "Crab Cakes Recipe",
-        "Shrimp Cocktail Recipe",
-        "Ginger Ale Recipe",
-        "Banana Pudding Recipe",
-        "Mango Sticky Rice Recipe",
-        "Poi Recipe",
-        "Tropical Curry Recipe",
-        "Squid Ink Ravioli Recipe",
-        "Moss Soup Recipe"
-      ]
-    },
-    {
-      "AliasName": "Traveling Merchant",
-      "ItemNames": [
-        "Traveling Merchant: Friday",
-        "Traveling Merchant: Monday",
-        "Traveling Merchant: Saturday",
-        "Traveling Merchant: Sunday",
-        "Traveling Merchant: Thursday",
-        "Traveling Merchant: Tuesday",
-        "Traveling Merchant: Wednesday",
-        "Traveling Merchant Metal Detector"
-      ]
-    },
-    {
-      "AliasName": "Golden Walnut",
-      "ItemNames": [
+	  ]
+	},
+	{
+	  "AliasName": "Queen Recipe",
+	  "ItemNames": [
+		"Fried Egg Recipe",
+		"Omelet Recipe",
+		"Salad Recipe",
+		"Cheese Cauliflower Recipe",
+		"Baked Fish Recipe",
+		"Parsnip Recipe",
+		"Vegetable Medley Recipe",
+		"Complete Breakfast Recipe",
+		"Fried Calamari Recipe",
+		"Strange Bun Recipe",
+		"Lucky Lunch Recipe",
+		"Fried Mushroom Recipe",
+		"Pizza Recipe",
+		"Bean Hotpot Recipe",
+		"Glazed Yams Recipe",
+		"Carp Surprise Recipe",
+		"Hashbrowns Recipe",
+		"Pancakes Recipe",
+		"Salmon Dinner Recipe",
+		"Fish Taco Recipe",
+		"Crispy Bass Recipe",
+		"Pepper Poppers Recipe",
+		"Bread Recipe",
+		"Tom Kha Soup Recipe",
+		"Trout Soup Recipe",
+		"Chocolate Cake Recipe",
+		"Pink Cake Recipe",
+		"Rhubarb Recipe",
+		"Cookie Recipe",
+		"Spaghetti Recipe",
+		"Fried Eel Recipe",
+		"Spicy Eel Recipe",
+		"Sashimi Recipe",
+		"Maki Roll Recipe",
+		"Tortilla Recipe",
+		"Red Plate Recipe",
+		"Eggplant Parmesan Recipe",
+		"Rice Pudding Recipe",
+		"Ice Cream Recipe",
+		"Blueberry Tart Recipe",
+		"Autumn's Bounty Recipe",
+		"Pumpkin Soup Recipe",
+		"Super Meal Recipe",
+		"Cranberry Sauce Recipe",
+		"Stuffing Recipe",
+		"Farmer's Lunch Recipe",
+		"Survival Burger Recipe",
+		"Dish O' The Sea Recipe",
+		"Miner's Treat Recipe",
+		"Roots Platter Recipe",
+		"Triple Shot Espresso Recipe",
+		"Seafoam Pudding Recipe",
+		"Algae Soup Recipe",
+		"Pale Broth Recipe",
+		"Plum Pudding Recipe",
+		"Artichoke Recipe",
+		"Stir Fry Recipe",
+		"Roasted Hazelnuts Recipe",
+		"Pumpkin Pie Recipe",
+		"Radish Salad Recipe",
+		"Fruit Salad Recipe",
+		"Blackberry Cobbler Recipe",
+		"Cranberry Candy Recipe",
+		"Bruschetta Recipe",
+		"Coleslaw Recipe",
+		"Fiddlehead Risotto Recipe",
+		"Poppyseed Muffin Recipe",
+		"Chowder Recipe",
+		"Fish Stew Recipe",
+		"Escargot Recipe",
+		"Lobster Bisque Recipe",
+		"Maple Bar Recipe",
+		"Crab Cakes Recipe",
+		"Shrimp Cocktail Recipe",
+		"Ginger Ale Recipe",
+		"Banana Pudding Recipe",
+		"Mango Sticky Rice Recipe",
+		"Poi Recipe",
+		"Tropical Curry Recipe",
+		"Squid Ink Ravioli Recipe",
+		"Moss Soup Recipe"
+	  ]
+	},
+	{
+	  "AliasName": "Traveling Merchant",
+	  "ItemNames": [
+		"Traveling Merchant: Friday",
+		"Traveling Merchant: Monday",
+		"Traveling Merchant: Saturday",
+		"Traveling Merchant: Sunday",
+		"Traveling Merchant: Thursday",
+		"Traveling Merchant: Tuesday",
+		"Traveling Merchant: Wednesday",
+		"Traveling Merchant Metal Detector"
+	  ]
+	},
+	{
+	  "AliasName": "Golden Walnut",
+	  "ItemNames": [
 		"3 Golden Walnuts",
 		"5 Golden Walnuts",
 		"Golden Walnut"
-      ]
-    }
+	  ]
+	}
   ]
 }
